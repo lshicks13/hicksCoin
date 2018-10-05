@@ -1,0 +1,2 @@
+# hicksCoin
+First Coin
